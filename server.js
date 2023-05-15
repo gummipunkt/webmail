@@ -4,7 +4,7 @@
  * Module dependencies.
  */
 
-const config = require('wild-config');
+//const config = require('wild-config');
 const log = require('npmlog');
 const https = require('https');
 const http = require('http');
